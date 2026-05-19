@@ -1,4 +1,4 @@
-<img width="647" height="522" alt="image" src="https://github.com/user-attachments/assets/932d43af-1ef3-490c-b65d-0df99bdf2707" /># EXP-2-Record-Image Acquisition using Web Camera
+# EXP-2-Record-Image Acquisition using Web Camera
 # Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
